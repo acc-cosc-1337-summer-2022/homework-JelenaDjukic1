@@ -1,9 +1,8 @@
-//write include statement for decisions header
+
 #include "decisions.h"
 #include <iostream>
 using namespace std;
 
-//Write code for function(s) code here
 
 int get_grade_points(string letter_grade)
 if(letter_grade == "A"){
